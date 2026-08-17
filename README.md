@@ -8,4 +8,4 @@ Released on Github
 
 Updates Soon:
 V1.0.1
-Bugs fized: Ross blinking repeatedlt
+Bugs fixed: Ross blinking repeatedly
